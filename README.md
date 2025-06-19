@@ -84,7 +84,7 @@ pip install -r requirements.txt
 ├── final_pure_gru.keras
 ├── final_hybrid_conv1d.keras
 ├── final_hybrid_conv2d.keras
-├── data/                # Place downloaded EEG data here
+├── requirements.txt           
 └── README.md
 ```
 
