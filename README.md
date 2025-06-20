@@ -32,7 +32,8 @@ pip install -r requirements.txt
 
 ### 3. Download the EEG Dataset
 
-- [Download the dataset from Google Drive]((https://drive.google.com/drive/folders/1t3zfVfJgmhYGSzF2VmPXZhvK8HnKMaMx?usp=drive_link))
+- [Download the dataset from Google Drive]
+- https://drive.google.com/drive/folders/1t3zfVfJgmhYGSzF2VmPXZhvK8HnKMaMx?usp=drive_link
 
   
 ---
